@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "git ignore에 대한 고찰"
 date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+categories: GIT
 ---
 Git의 핵심 목적
 버전관리
