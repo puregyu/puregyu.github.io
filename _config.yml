@@ -20,7 +20,7 @@ title                    : "devyu's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "devyu"
-description              : "코딩요리사의 레시피"
+description              : "asd"
 url                      : "https://https://puregyu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "devyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "요리를 좋아하는 행복한 개발자"
+  bio              : "asd"
   location         : "seoul"
   email            :
   links:
